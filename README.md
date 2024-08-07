@@ -1,6 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A passionate forthcoming software developer from Poland</h3>
+<h3 align="center">I have just finished the first year of studies at the University of Gdańsk as an IT specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 
