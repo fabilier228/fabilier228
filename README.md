@@ -3,7 +3,7 @@
 <h3 align="center">A passionate forthcoming software developer from Poland</h3>
 <h4 align="center">I am currently studying as an IT specialist,</h4>
 <h4 align="center">Therefore I am doing my best to keep on improving,</h4>
-<h4 align="center">To become the best version of myself/</h4>
+<h4 align="center">To become the best version of myself.</h4>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 
