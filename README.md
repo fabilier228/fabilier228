@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Django, Flask, and React**
+- 🌱 I’m currently learning **Machine Learning, Django, SpringBoot, and Next.js**
 
 - 📫 How to reach me **kunikowskikuba@gmail.com**
 
